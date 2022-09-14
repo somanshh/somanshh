@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somansh</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://innovationcenter.gitam.edu/](https://www.google.com/search?q=coder+animated+gif&rlz=1C1JJTC_enIN940IN940&sxsrf=ALiCzsaSQUu_O9X2Q-zFYKl258oPjq_3hA:1663180303405&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiy8Lm59ZT6AhX-4XMBHQoaBK0Q_AUoAXoECAIQAw&biw=1536&bih=714&dpr=1.25#imgrc=ZmOH4FBlhx83-M)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanshh&label=Profile%20views&color=0e75b6&style=flat" alt="somanshh" /> </p>
 
