@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somansh</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">Finding the Best move to play</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanshh&label=Profile%20views&color=0e75b6&style=flat" alt="somanshh" /> </p>
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Rahulsoni22255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahulsoni22255" height="30" width="40" /></a>
+<a href="https://twitter.com/somanshh_" target="https://twitter.com/somanshh_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahulsoni22255" height="30" width="40" /></a>
 <a href="https://instagram.com/somanshh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somanshh_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/somansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="somansh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bot_somansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bot_somansh" height="30" width="40" /></a>
