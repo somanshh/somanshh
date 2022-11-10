@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanshh&label=Profile%20views&color=0e75b6&style=flat" alt="somanshh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@somanshh_" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulsoni22255?logo=twitter&style=for-the-badge" alt="@rahulsoni22255" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@somanshh_" target="blank"><img src="https://img.shields.io/twitter/follow/@somanshh_?logo=twitter&style=for-the-badge" alt="@somanshh_" /></a> </p>
 
 - 🌱 I’m currently learning **React , java**
 
