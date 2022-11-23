@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Somansh</h1>
+<h1 align="center">Somansh 👋</h1>
 <h3 align="center">Finding the Best move to play</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somanshh&label=Profile%20views&color=0e75b6&style=flat" alt="somanshh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@somanshh_" target="blank"><img src="https://img.shields.io/twitter/follow/@somanshh_?logo=twitter&style=for-the-badge" alt="@somanshh_" /></a> </p>
-
-- 🌱 I’m currently learning **React , java**
+- 🌱 I’m currently learning **React , NodeJS**
 
 - 📫 How to reach me **somanshpp@gmail.com**
 
-- ⚡ Fun fact **I think I am a Fast Learner**
+- ⚡  ** A Fast Learner **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
